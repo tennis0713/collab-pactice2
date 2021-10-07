@@ -1,0 +1,17 @@
+
+.nav{
+    height: 100px;
+    background-color: lightgray;
+}
+.left{
+    height: 300px;
+    background-color: aqua;
+}
+.right{
+    height: 300px;
+    background-color: aqua;
+}
+.footer{
+    height: 100px;
+    background-color: lightgray;
+}
